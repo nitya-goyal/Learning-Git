@@ -1,0 +1,1 @@
+instead of using empty text files to store empty folders we can use .gitkeep file so git won't ignore the empty folder
